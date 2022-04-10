@@ -11,5 +11,5 @@ class Presets(object):
     FINISHED_DL = "<b>Success !</b>\n<i>Document downloaded successfully.</i>"
     START_COMPRESSING = "⌛️ <b>Processing</b>  ⌛\n<i>Trying to compress the document.</i>"
     FINISHED_JOB = "<b>Success</b> ✅ \n\n<i>Size before job: {}\nSize after job: {}\n\nCredits: </i><a " \
-                   "href='https://github.com/m4mallu'><b> @M4Mallu</b></a> "
+                   "href='https://github.com/Yung92'><b> @yung92</b></a> "
     JOB_ERROR = "<b>Error:</b>\n<i>Something went wrong ! Process exited</i>"
